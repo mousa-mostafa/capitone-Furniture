@@ -1,0 +1,7 @@
+{
+  "name": "Capitone Furniture Factory",
+  "description": "Exclusive Salon furniture from Damietta, Egypt. Luxury designs with customization, export services, and flexible shipping options.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
